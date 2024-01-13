@@ -37,7 +37,7 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
  
  CGPA - 3.25 out of 4.00
  
-> - **Higher Secondary School Certificate (HSC)**
+- **Higher Secondary School Certificate (HSC)**
 
 **_Government Tolaram University College, Narayanganj_**
 
