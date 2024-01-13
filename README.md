@@ -1,3 +1,9 @@
+_**GENDER**_: Male
+_**DOB**_: 06 AUG, 2001
+_**Mobile No**_: 01736666420
+_**Email**_: rohit.bhowmick.4444@gmail.com
+_**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
+[(_**Github**_)](https://github.com/rrohit006)  
 
 ## _**TOOLS**_:
 - Microsoft Office  - Spyder
@@ -18,9 +24,7 @@
 
 
 ## _**EDUCATION**_
-- **B.Sc. in Electrical & Electronics Engineering** | **_East West University_**
-2020 - Present
-CGPA - 3.25 out of 4.00
+- **B.Sc. in Electrical & Electronics Engineering** | **_East West University_** | 2020 - Present | CGPA - 3.25 out of 4.00
 - **Higher Secondary School Certificate (HSC)**
 **_Government Tolaram University College, Narayanganj_**
 2017 - 2019
@@ -55,9 +59,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
