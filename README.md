@@ -1,13 +1,20 @@
 
 ## _**Tools**_:
 - Microsoft Office  - Spyder
-- pSpice            - scaps 
-- TinkerCAD         - Ansys Electronics
-- MATLAB            - Quartus
-- Origin            - PowerWorld
-- Google            - jupiter Notebook
-- emu8086           - Nanohub
-- AutoCAD           - Code::Blocks 
+- pSpice
+- scaps 
+- TinkerCAD
+- Ansys Electronics
+- MATLAB
+- Quartus
+- Origin
+- PowerWorld
+- Google
+- jupiter Notebook
+- emu8086
+- Nanohub
+- AutoCAD
+- Code::Blocks 
 
 
 ## Education
