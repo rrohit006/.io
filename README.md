@@ -102,4 +102,4 @@ Creating a periodic table using C programming involves using data structures to 
 5. **Compile and Run:**
    - Compile the program using a C compiler (e.g., `gcc`) and run the executable.
    - You should see a formatted periodic table printed to the console.
-![OutPut View](/img/02.jpg)
+![OutPut View](/img/02.png)
