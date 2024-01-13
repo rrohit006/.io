@@ -77,6 +77,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 - Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
 - Preparing Data for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/PSJMQESB)
+- 
 
 
 ## **_PROJECTS_**
@@ -129,11 +130,4 @@ Numerical techniques in engineering involve using mathematical methods and algor
 6. **Partial Differential Equations (PDEs):**
    - **Finite Difference Method:** Discretize PDEs using finite differences to approximate derivatives and convert the problem into a system of algebraic equations.
    - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
-7. **Optimization Techniques:**
-   - **Gradient Descent:** An iterative optimization algorithm that minimizes a cost function by adjusting parameters in the direction of the steepest descent.
-   - **Genetic Algorithms:** Optimization algorithms inspired by the process of natural selection to find near-optimal solutions.
-8. **Monte Carlo Simulation:**
-   - **Monte Carlo Integration:** Estimate the value of an integral by generating random samples within the integration domain.
-   - **Monte Carlo Method for Simulation:** Use random sampling to model and simulate complex systems or processes.
-These numerical techniques are essential in engineering for solving a wide range of problems, including structural analysis, fluid dynamics, heat transfer, signal processing, and optimization. While these methods provide practical solutions, it's important to consider their limitations and accuracy, especially in the context of specific engineering applications.
 
