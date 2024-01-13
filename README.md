@@ -29,7 +29,7 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 
 
 ## _**EDUCATION**_
-> - **B.Sc. in Electrical & Electronics Engineering**
+> ###**B.Sc. in Electrical & Electronics Engineering**
 > 
 >  **_East West University_** 
 >  
@@ -37,7 +37,7 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 >  
 >  CGPA - 3.25 out of 4.00
 >  
-> - **Higher Secondary School Certificate (HSC)**
+> ###**Higher Secondary School Certificate (HSC)**
 > 
 > **_Government Tolaram University College, Narayanganj_**
 > 
@@ -45,7 +45,7 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 > 
 > GPA - 4.17 out of 5.00
 > 
-> - **Secondary School Certificate**
+> ###**Secondary School Certificate (SSC)**
 > 
 > _**Narayanganj High School & College, Narayanganj**_
 > 
