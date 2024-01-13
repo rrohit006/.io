@@ -12,21 +12,21 @@
 > - [(_**Github**_)](https://github.com/rrohit006)  
 
 ## _**TOOLS**_:
-- Microsoft Office  - Spyder
-- pSpice
-- scaps 
-- TinkerCAD
-- Ansys Electronics
-- MATLAB
-- Quartus
-- Origin
-- PowerWorld
-- Google
-- jupiter Notebook
-- emu8086
-- Nanohub
-- AutoCAD
-- Code::Blocks 
+> - Microsoft Office  - Spyder
+> - pSpice
+> - scaps 
+> - TinkerCAD
+> - Ansys Electronics
+> - MATLAB
+> - Quartus
+> - Origin
+> - PowerWorld
+> - Google
+> - jupiter Notebook
+> - emu8086
+> - Nanohub
+> - AutoCAD
+> - Code::Blocks 
 
 
 ## _**EDUCATION**_
