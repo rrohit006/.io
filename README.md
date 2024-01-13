@@ -87,6 +87,7 @@ Intermediate English as a Second Language [(View Credential-01)](https://learn.s
 
 Basic English [(View Credential-01)](https://www.futurelearn.com/certificates/4f7bxzi) [(View Credential-02)](https://www.futurelearn.com/certificates/hjcrnvd)
 
+Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
 
 
