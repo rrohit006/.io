@@ -19,7 +19,7 @@
 - *Organizational Skills*
 
 
-#_**LANGUAGE**_
+# _**LANGUAGE**_
 - *Bangla*
 - *English*
 
@@ -79,6 +79,7 @@ GPA - 5.00 out of 5.00
 - Basic English [(View Credential-01)](https://www.futurelearn.com/certificates/4f7bxzi) [(View Credential-02)](https://www.futurelearn.com/certificates/hjcrnvd)
 - Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 - Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
+- Preparing Data for Machine Learning
 
 
 ## **_PROJECTS_**
