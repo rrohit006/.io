@@ -103,3 +103,14 @@ Creating a periodic table using C programming involves using data structures to 
    - Compile the program using a C compiler (e.g., `gcc`) and run the executable.
    - You should see a formatted periodic table printed to the console.
 ![OutPut View](/img/02.png)
+
+### 02. Design of a Common Emitter BJT Amplifier
+[(View Project)](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
+
+The design of a common emitter Bipolar Junction Transistor (BJT) amplifier involves determining component values such as resistors, capacitors, and the transistor itself to meet specific performance objectives.  The design of a Common Emitter (CE) Bipolar Junction Transistor (BJT) amplifier involves selecting component values to meet certain performance criteria. 
+
+### 03. Numerical Techniques in Engineering 
+[(View Project)](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
+
+
+
