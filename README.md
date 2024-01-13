@@ -32,7 +32,11 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 - **B.Sc. in Electrical & Electronics Engineering**
 
  **_East West University_** 
- 2020 - Present | CGPA - 3.25 out of 4.00
+ 
+ 2020 - Present 
+ 
+ CGPA - 3.25 out of 4.00
+ 
 - **Higher Secondary School Certificate (HSC)**
 
 **_Government Tolaram University College, Narayanganj_**
@@ -40,6 +44,7 @@ _**Address**_: 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 2017 - 2019
 
 GPA - 4.17 out of 5.00
+
 - **Secondary School Certificate**
 
 _**Narayanganj High School & College, Narayanganj**_
