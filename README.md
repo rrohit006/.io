@@ -1,5 +1,3 @@
-![DP](/img/01.jpg) 
-
 # _**ABOUT**_
 - _**GENDER**_ **:** Male
 
