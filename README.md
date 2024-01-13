@@ -30,7 +30,7 @@
 
 
 ## _**EDUCATION**_
-> ###**B.Sc. in Electrical & Electronics Engineering**
+> ### **B.Sc. in Electrical & Electronics Engineering**
 > 
 >  **_East West University_** 
 >  
@@ -38,7 +38,7 @@
 >  
 >  CGPA - 3.25 out of 4.00
 >  
-> ###**Higher Secondary School Certificate (HSC)**
+> ### **Higher Secondary School Certificate (HSC)**
 > 
 > **_Government Tolaram University College, Narayanganj_**
 > 
@@ -46,7 +46,7 @@
 > 
 > GPA - 4.17 out of 5.00
 > 
-> ###**Secondary School Certificate (SSC)**
+> ### **Secondary School Certificate (SSC)**
 > 
 > _**Narayanganj High School & College, Narayanganj**_
 > 
