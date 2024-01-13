@@ -11,7 +11,7 @@
 > 
 > - [(_**Github**_)](https://github.com/rrohit006)  
 
-## _**TOOLS**_:
+## _**TOOLS**_
 > - Microsoft Office  - Spyder
 > - pSpice
 > - scaps 
