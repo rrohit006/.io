@@ -82,3 +82,24 @@ GPA - 5.00 out of 5.00
 
 
 ## **_PROJECTS_**
+### Periodic Table using C Programming
+[(View Project)](https://github.com/rrohit006/Periodic-Table)
+
+Creating a periodic table using C programming involves using data structures to represent the elements and then displaying the information in a structured format. Here's a breakdown of the theory and steps involved:
+
+1. **Define the Structure:**
+   - Use a structure to represent each element in the periodic table.
+   - Include fields for the symbol, name, atomic number, and atomic weight of each element.
+2. **Create an Array of Elements:**
+   - Create an array of structures to hold information about each element.
+   - Initialize the array with the data for each element.
+3. **Display Function:**
+   - Write a function to display information about a given element.
+   - Use formatted output to present the information in a readable manner.
+4. **Main Function:**
+   - In the `main` function, print the header for the periodic table (column names).
+   - Use a loop to iterate through the array of elements and call the display function for each element.
+5. **Compile and Run:**
+   - Compile the program using a C compiler (e.g., `gcc`) and run the executable.
+   - You should see a formatted periodic table printed to the console.
+![OutPut View](/img/02.jpg)
