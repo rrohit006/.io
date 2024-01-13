@@ -52,13 +52,14 @@ _**Narayanganj High School & College, Narayanganj**_
 GPA - 5.00 out of 5.00 
   
 
-##_**CERTIFICATES**_
-- Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
-- Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
-- Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
-- Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
-- Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
-- Digital Skills: Artificial Intelligence [(View Credemtial)](https://www.futurelearn.com/certificates/atze148)
+## _**CERTIFICATES**_
+
+> - Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
+> - Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
+> - Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
+> - Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
+> - Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
+> - Digital Skills: Artificial Intelligence [(View Credemtial)](https://www.futurelearn.com/certificates/atze148)
 
 
 ## Projects
