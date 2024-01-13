@@ -1,15 +1,15 @@
 ## _**About**_
-- _**GENDER**_ **:** Male
-
-- _**DOB**_ **:** 06 AUG, 2001
-
-- _**MOBILE No**_ **:** 01736666420
-
-- _**EMAIL**_ **:** rohit.bhowmick.4444@gmail.com
-
-- _**ADDRESS**_ **:** 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
-
-- [(_**Github**_)](https://github.com/rrohit006)  
+> - _**GENDER**_ **:** Male
+> 
+> - _**DOB**_ **:** 06 AUG, 2001
+> 
+> - _**MOBILE No**_ **:** 01736666420
+> 
+> - _**EMAIL**_ **:** rohit.bhowmick.4444@gmail.com
+> 
+> - _**ADDRESS**_ **:** 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
+> 
+> - [(_**Github**_)](https://github.com/rrohit006)  
 
 ## _**TOOLS**_:
 - Microsoft Office  - Spyder
