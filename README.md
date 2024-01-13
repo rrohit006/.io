@@ -82,7 +82,7 @@ GPA - 5.00 out of 5.00
 
 
 ## **_PROJECTS_**
-### Periodic Table using C Programming
+### 01. Periodic Table using C Programming
 [(View Project)](https://github.com/rrohit006/Periodic-Table)
 
 Creating a periodic table using C programming involves using data structures to represent the elements and then displaying the information in a structured format. Here's a breakdown of the theory and steps involved:
