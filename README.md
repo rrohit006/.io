@@ -15,7 +15,7 @@
 - **Microsoft Office**
 - **Spyder**
 - **pSpice**
-- **scaps **
+- **scaps**
 - **TinkerCAD**
 - **Ansys Electronics**
 - **MATLAB**
@@ -27,7 +27,7 @@
 - **emu8086**
 - **Nanohub**
 - **AutoCAD**
-- **Code::Blocks **
+- **Code::Blocks**
 
 
 ## _**EDUCATION**_
