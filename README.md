@@ -34,7 +34,8 @@ GPA - 5.00 out of 5.00
 - Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
 - Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
 - Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
-- 
+- Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
+- Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
 
 
 ## Projects
