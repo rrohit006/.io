@@ -18,7 +18,7 @@
 
 
 ## Education
-> - **B.Sc. in Electrical & Electronics Engineering**
++**B.Sc. in Electrical & Electronics Engineering**
 > - **_East West University_**
 2020 - Present
 CGPA - 3.25 out of 4.00
