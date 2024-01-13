@@ -11,6 +11,14 @@
 
 [ _**(FaceBook)**_ ](https://www.facebook.com/rohit.bhowmick.006/) | [_**(Github)**_](https://github.com/rrohit006) | [_**(LinkedIn)**_](https://www.linkedin.com/in/rohit-bhowmick-9683332a8/)  
 
+
+# _**SKILLS**_
+- *Project Management*
+- *Electrical Design*
+- *Team Work*
+- *Organizational Skills*
+
+  
 # _**TOOLS**_
 - *Microsoft Office*
 - *Spyder*
