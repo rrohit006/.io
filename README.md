@@ -18,8 +18,8 @@
 
 
 ## Education
-> - **B.Sc. in Electrical & Electronics Engineering** 
-**_East West University_**
+> - **B.Sc. in Electrical & Electronics Engineering**
+> - **_East West University_**
 2020 - Present
 CGPA - 3.25 out of 4.00
 > - **Higher Secondary School Certificate (HSC)**
