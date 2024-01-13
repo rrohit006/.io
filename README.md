@@ -112,5 +112,30 @@ The design of a common emitter Bipolar Junction Transistor (BJT) amplifier invol
 ### 03. Numerical Techniques in Engineering 
 [(View Project)](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
 
-
+Numerical techniques in engineering involve using mathematical methods and algorithms to solve engineering problems that may not have analytical solutions or where analytical solutions are difficult to obtain. Here are some common numerical techniques used in engineering along with a brief overview of each:
+1. **Root-Finding Methods:**
+   - **Bisection Method:** Iteratively narrow down the interval containing a root by evaluating the function at the endpoints and identifying the subinterval where the function changes sign.
+   - **Newton-Raphson Method:** Use the tangent line to iteratively approach the root of a function.
+2. **Linear Algebraic Equations:**
+   - **Gaussian Elimination:** A method for solving systems of linear equations through row operations to transform a system into an upper triangular form.
+   - **LU Decomposition:** Decompose a matrix into the product of a lower triangular matrix (L) and an upper triangular matrix (U) to simplify the solution of linear systems.
+3. **Interpolation and Extrapolation:**
+   - **Lagrange Interpolation:** Construct a polynomial that passes through a set of given points to approximate a function.
+   - **Newton's Divided Difference Interpolation:** An iterative method to calculate interpolation coefficients based on divided differences.
+4. **Numerical Integration:**
+   - **Trapezoidal Rule:** Approximate the definite integral of a function by dividing the area under the curve into trapezoids.
+   - **Simpson's Rule:** A more accurate method that uses quadratic polynomials to approximate the integral.
+5. **Ordinary Differential Equations (ODEs):**
+   - **Euler's Method:** A simple numerical method for solving first-order ODEs by approximating the solution at discrete points.
+   - **Runge-Kutta Methods:** Higher-order methods for solving ODEs, such as the classical fourth-order Runge-Kutta method.
+6. **Partial Differential Equations (PDEs):**
+   - **Finite Difference Method:** Discretize PDEs using finite differences to approximate derivatives and convert the problem into a system of algebraic equations.
+   - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
+7. **Optimization Techniques:**
+   - **Gradient Descent:** An iterative optimization algorithm that minimizes a cost function by adjusting parameters in the direction of the steepest descent.
+   - **Genetic Algorithms:** Optimization algorithms inspired by the process of natural selection to find near-optimal solutions.
+8. **Monte Carlo Simulation:**
+   - **Monte Carlo Integration:** Estimate the value of an integral by generating random samples within the integration domain.
+   - **Monte Carlo Method for Simulation:** Use random sampling to model and simulate complex systems or processes.
+These numerical techniques are essential in engineering for solving a wide range of problems, including structural analysis, fluid dynamics, heat transfer, signal processing, and optimization. While these methods provide practical solutions, it's important to consider their limitations and accuracy, especially in the context of specific engineering applications.
 
