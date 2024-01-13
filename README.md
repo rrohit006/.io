@@ -1,4 +1,4 @@
-## _**ABOUT**_
+# _**ABOUT**_
 - _**GENDER**_ **:** Male
 
 - _**DOB**_ **:** 06 AUG, 2001
@@ -11,7 +11,7 @@
 
 [ _**(FaceBook)**_ ](https://www.facebook.com/rohit.bhowmick.006/) | [_**(Github)**_](https://github.com/rrohit006) | [_**(LinkedIn)**_](https://www.linkedin.com/in/rohit-bhowmick-9683332a8/)  
 
-## _**TOOLS**_
+# _**TOOLS**_
 - *Microsoft Office*
 - *Spyder*
 - *pSpice*
@@ -29,8 +29,8 @@
 - *AutoCAD*
 - *Code::Blocks*
 
-## _**EDUCATION**_
-> ### **B.Sc. in Electrical & Electronics Engineering**
+# _**EDUCATION**_
+> ## **B.Sc. in Electrical & Electronics Engineering**
 > 
 >  **_East West University_** 
 > 
@@ -38,7 +38,7 @@
 > 
 >  CGPA - 3.25 out of 4.00
 
-> ### **Higher Secondary School Certificate (HSC)**
+> ## **Higher Secondary School Certificate (HSC)**
 > 
 > **_Government Tolaram University College, Narayanganj_**
 > 
@@ -46,7 +46,7 @@
 > 
 >  GPA - 4.17 out of 5.00
 
-> ### **Secondary School Certificate (SSC)**
+> ## **Secondary School Certificate (SSC)**
 > 
 > _**Narayanganj High School & College, Narayanganj**_
 > 
