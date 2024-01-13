@@ -1,5 +1,5 @@
 
-## _**Tools**_:
+## _**TOOLS**_:
 - Microsoft Office  - Spyder
 - pSpice
 - scaps 
@@ -17,7 +17,7 @@
 - Code::Blocks 
 
 
-## Education
+## _**EDUCATION**_
 - **B.Sc. in Electrical & Electronics Engineering** | **_East West University_**
 2020 - Present
 CGPA - 3.25 out of 4.00
@@ -36,6 +36,7 @@ GPA - 5.00 out of 5.00
 - Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
 - Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
 - Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
+- Digital Skills: Artificial Intelligence [(View Credemtial)](https://www.futurelearn.com/certificates/atze148)
 
 
 ## Projects
