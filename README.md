@@ -31,9 +31,9 @@ GPA - 5.00 out of 5.00
   
 
 ##_**CERTIFICATES**_
-- Introduction to MATLAB [View Credential](https://verify.mygreatlearning.com/verify/LRTUBHDB)
-- Matrix Multiplication in C [View Credential](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
-- Principles of Engineering [View Credential](https://www.futurelearn.com/certificates/pb8x7qw)
+- Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
+- Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
+- Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
 - 
 
 
