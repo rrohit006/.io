@@ -12,23 +12,22 @@
 [ _**(FaceBook)**_ ](https://www.facebook.com/rohit.bhowmick.006/) | [_**(Github)**_](https://github.com/rrohit006) | [_**(LinkedIn)**_](https://www.linkedin.com/in/rohit-bhowmick-9683332a8/)  
 
 ## _**TOOLS**_
-- **Microsoft Office**
-- **Spyder**
-- **pSpice**
-- **scaps**
-- **TinkerCAD**
-- **Ansys Electronics**
-- **MATLAB**
-- **Quartus**
-- **Origin**
-- **PowerWorld**
-- **Google**
-- **Jupiter Notebook**
-- **emu8086**
-- **Nanohub**
-- **AutoCAD**
-- **Code::Blocks**
-
+- *Microsoft Office*
+- *Spyder*
+- *pSpice*
+- *scaps*
+- *TinkerCAD*
+- *Ansys Electronics*
+- *MATLAB*
+- *Quartus*
+- *Origin*
+- *PowerWorld*
+- *Google*
+- *Jupiter Notebook*
+- *emu8086*
+- *Nanohub*
+- *AutoCAD*
+- *Code::Blocks*
 
 ## _**EDUCATION**_
 > ### **B.Sc. in Electrical & Electronics Engineering**
