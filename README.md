@@ -54,13 +54,13 @@
 2017 - 2019 
 
 
-## **Secondary School Certificate (SSC)** 
+# **Secondary School Certificate (SSC)** 
 
 _**Narayanganj High School & College, Narayanganj**_ 
 
 2015 - 2017 
 
-  ## _**CERTIFICATES**_
+  # _**CERTIFICATES**_
 - Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
 - Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
 - Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
@@ -75,7 +75,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - Basic English [(View Credential-01)](https://www.futurelearn.com/certificates/4f7bxzi) [(View Credential-02)](https://www.futurelearn.com/certificates/hjcrnvd)
 - Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
-## **_PROJECTS_**
+# **_PROJECTS_**
 ### 01. Periodic Table using C Programming
 [(View Project)](https://github.com/rrohit006/Periodic-Table)
 
