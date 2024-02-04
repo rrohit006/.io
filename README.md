@@ -65,6 +65,9 @@ _**Narayanganj High School & College, Narayanganj**_
 ## _**CERTIFICATES**_
 - Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
 - Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
+- Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
+- Preparing Data for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/PSJMQESB)
+- Neural Network in R [(View Credential)](https://verify.mygreatlearning.com/verify/NJCZPIJJ)
 - Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
 - Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
 - Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
@@ -73,9 +76,8 @@ _**Narayanganj High School & College, Narayanganj**_
 - Intermediate English as a Second Language [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=6743653491RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=4605851133RB)
 - Basic English [(View Credential-01)](https://www.futurelearn.com/certificates/4f7bxzi) [(View Credential-02)](https://www.futurelearn.com/certificates/hjcrnvd)
 - Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
-- Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
-- Preparing Data for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/PSJMQESB)
-- 
+
+
 
 
 ## **_PROJECTS_**
