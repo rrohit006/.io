@@ -54,7 +54,7 @@
 2017 - 2019 
 
 
-# **Secondary School Certificate (SSC)** 
+## **Secondary School Certificate (SSC)** 
 
 _**Narayanganj High School & College, Narayanganj**_ 
 
