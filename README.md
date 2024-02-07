@@ -60,7 +60,7 @@ _**Narayanganj High School & College, Narayanganj**_
 
 2015 - 2017 
 
-  # _**CERTIFICATES**_
+# _**CERTIFICATES**_
 - Introduction to MATLAB         [(View Credential)](https://verify.mygreatlearning.com/verify/LRTUBHDB)
 - Matrix Multiplication in C     [(View Credential)](https://verify.mygreatlearning.com/verify/ZRNIBUHW)
 - Python for Machine Learning [(View Credential)](https://verify.mygreatlearning.com/verify/SDHUEJUF)
