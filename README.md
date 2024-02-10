@@ -74,7 +74,8 @@ _**Narayanganj High School & College, Narayanganj**_
 - Intermediate English as a Second Language [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=6743653491RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=4605851133RB)
 - Basic English 1: Elementary [(View Credential-01)](https://www.futurelearn.com/certificates/4f7bxzi)
 - Basic English 2: Pre-Intermediate [(View Credential-02)](https://www.futurelearn.com/certificates/hjcrnvd)
-- Maths [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB) [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
+- RMW101: Foundations of Real World Math [(View Credential-01)](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB)
+- RWM102: Algebra [(View Credential-02)](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
 # **_PROJECTS_**
 ### 01. Periodic Table using C Programming
