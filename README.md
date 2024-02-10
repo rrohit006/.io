@@ -70,6 +70,8 @@ _**Narayanganj High School & College, Narayanganj**_
 - Digital Skills: Artificial Intelligence [(View Credential)](https://www.futurelearn.com/certificates/atze148)
 - Principles of Engineering      [(View Credential)](https://www.futurelearn.com/certificates/pb8x7qw)
 - Introduction to Psychology [(View Credential)](https://www.futurelearn.com/certificates/php4j16)
+- Building Human Connection in a Digital World [(View Credential)](https://www.futurelearn.com/certificates/3twhyjo)
+- Digital Skills: Digital Skills for Work & Life [(View Credential)](https://www.futurelearn.com/certificates/06buz08)
 - Improve Your IELTS Speaking Score [(View Credential)](https://www.futurelearn.com/certificates/g13lscp)
 - ESL002: Intermediate English as a Second Language [(View Credential)](https://learn.saylor.org/admin/tool/certificate/index.php?code=6743653491RB)
 - ESL003: Upper-Intermediate English as a Second Language [(View Credential)](https://learn.saylor.org/admin/tool/certificate/index.php?code=4605851133RB)
