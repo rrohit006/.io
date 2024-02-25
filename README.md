@@ -82,7 +82,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - [RWM102: Algebra](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
 # **_PROJECTS_**
-### 01. [Periodic Table using C Programming](https://github.com/rrohit006/Periodic-Table)
+### 01. [_**Periodic Table using C Programming**_](https://github.com/rrohit006/Periodic-Table)
 
 Creating a periodic table using C programming involves using data structures to represent the elements and then displaying the information in a structured format. Here's a breakdown of the theory and steps involved:
 
