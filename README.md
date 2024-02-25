@@ -46,7 +46,7 @@
 # _**EDUCATION**_
 ## **B.Sc. in Electrical & Electronics Engineering** 
 
-**_East West University_**  
+**_East West University, Dhaka_**  
 
 2020 - Present  
 
