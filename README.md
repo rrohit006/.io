@@ -39,6 +39,9 @@
 - *Nanohub*
 - *AutoCAD*
 - *Code::Blocks*
+- *CISCO Pocket Tracer*
+- *Logo Soft Comfort v8.3*
+- *Totally Integrated Automation Portal V10* 
 
 # _**EDUCATION**_
 ## **B.Sc. in Electrical & Electronics Engineering** 
