@@ -134,7 +134,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
 
 ### 03. Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program
 [(View Project)](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
-
+![OutPut View](/img/04.png)
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
 1. **Installation**: First, ensure that you have SCAPS-1D installed on your system. You can typically download it from the official website or from a trusted source.
