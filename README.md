@@ -153,7 +153,7 @@ To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) usi
 
 It's important to note that simulating thin-film solar cells using SCAPS-1D requires a good understanding of semiconductor physics and device modeling. Additionally, accurate input parameters and material properties are essential for obtaining reliable simulation results. If you're new to using SCAPS-1D or simulating solar cells in general, it may be helpful to consult the software documentation and/or seek guidance from experts in the field.
 
-### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
+### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
 
@@ -168,6 +168,8 @@ Using AutoCAD for electrical wiring installation and cost estimation involves se
 2. **Creating Wiring Diagrams**:
     - Draw wiring diagrams to illustrate how electrical components are connected and the routing of wires. This helps electricians understand the installation process.
     - Label components and wires appropriately to avoid confusion during installation.
+
+![OutPut View](/img/0_1.png) ![OutPut View](/img/0_1.png) ![OutPut View](/img/0_1.png)
 
 3. **Material List Generation**:
     - Manually create a list of materials needed for the electrical installation based on your drawing. This includes wires, cables, outlets, switches, circuit breakers, conduit, junction boxes, etc.
