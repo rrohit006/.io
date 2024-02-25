@@ -82,8 +82,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - [RWM102: Algebra](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
 # **_PROJECTS_**
-### 01. Periodic Table using C Programming
-[(View Project)](https://github.com/rrohit006/Periodic-Table)
+### 01. [Periodic Table using C Programming](https://github.com/rrohit006/Periodic-Table)
 
 Creating a periodic table using C programming involves using data structures to represent the elements and then displaying the information in a structured format. Here's a breakdown of the theory and steps involved:
 
@@ -104,13 +103,11 @@ Creating a periodic table using C programming involves using data structures to 
    - You should see a formatted periodic table printed to the console.
 ![OutPut View](/img/02.png) 
 
-### 02. Design of a Common Emitter BJT Amplifier
-[(View Project)](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
+### 02. [Design of a Common Emitter BJT Amplifier](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
 
 The design of a common emitter Bipolar Junction Transistor (BJT) amplifier involves determining component values such as resistors, capacitors, and the transistor itself to meet specific performance objectives.  The design of a Common Emitter (CE) Bipolar Junction Transistor (BJT) amplifier involves selecting component values to meet certain performance criteria. 
 
-### 03. Numerical Techniques in Engineering 
-[(View Project)](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
+### 03. [Numerical Techniques in Engineering](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
 
 Numerical techniques in engineering involve using mathematical methods and algorithms to solve engineering problems that may not have analytical solutions or where analytical solutions are difficult to obtain. Here are some common numerical techniques used in engineering along with a brief overview of each:
 1. **Root-Finding Methods:**
@@ -132,8 +129,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
    - **Finite Difference Method:** Discretize PDEs using finite differences to approximate derivatives and convert the problem into a system of algebraic equations.
    - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
 
-### 04. Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program
-[(View Project)](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
+### 04. [Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
@@ -157,8 +153,7 @@ To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) usi
 
 It's important to note that simulating thin-film solar cells using SCAPS-1D requires a good understanding of semiconductor physics and device modeling. Additionally, accurate input parameters and material properties are essential for obtaining reliable simulation results. If you're new to using SCAPS-1D or simulating solar cells in general, it may be helpful to consult the software documentation and/or seek guidance from experts in the field.
 
-### 06. Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D 
-[(View Project)](https://github.com/rrohit006/Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D)
+### 06. [Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D](https://github.com/rrohit006/Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D)
 
 To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow these general steps:
 
