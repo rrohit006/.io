@@ -82,7 +82,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - [RWM102: Algebra](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
 
 # **_PROJECTS_**
-### 01. [_**Periodic Table using C Programming**_](https://github.com/rrohit006/Periodic-Table)
+### _**01.**_ [_**Periodic Table using C Programming**_](https://github.com/rrohit006/Periodic-Table)
 
 Creating a periodic table using C programming involves using data structures to represent the elements and then displaying the information in a structured format. Here's a breakdown of the theory and steps involved:
 
@@ -104,11 +104,11 @@ Creating a periodic table using C programming involves using data structures to 
    
      ![OutPut View](/img/02.png) 
 
-### 02. [Design of a Common Emitter BJT Amplifier](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
+### _**02.**_ [**_Design of a Common Emitter BJT Amplifier_**](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
 
 The design of a common emitter Bipolar Junction Transistor (BJT) amplifier involves determining component values such as resistors, capacitors, and the transistor itself to meet specific performance objectives.  The design of a Common Emitter (CE) Bipolar Junction Transistor (BJT) amplifier involves selecting component values to meet certain performance criteria. 
 
-### 03. [Numerical Techniques in Engineering](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
+### _**03.**_ [_**Numerical Techniques in Engineering**_](https://github.com/rrohit006/Numerical-Techniques-in-Engineering)
 
 Numerical techniques in engineering involve using mathematical methods and algorithms to solve engineering problems that may not have analytical solutions or where analytical solutions are difficult to obtain. Here are some common numerical techniques used in engineering along with a brief overview of each:
 1. **Root-Finding Methods:**
@@ -131,7 +131,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
    - **Finite Difference Method:** Discretize PDEs using finite differences to approximate derivatives and convert the problem into a system of algebraic equations.
    - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
 
-### 04. [Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
+### _**04.**_ [**_Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program_**](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
@@ -155,7 +155,7 @@ To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) usi
 
 It's important to note that simulating thin-film solar cells using SCAPS-1D requires a good understanding of semiconductor physics and device modeling. Additionally, accurate input parameters and material properties are essential for obtaining reliable simulation results. If you're new to using SCAPS-1D or simulating solar cells in general, it may be helpful to consult the software documentation and/or seek guidance from experts in the field.
 
-### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
+### _**05.**_ [_**Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues)**_](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
   
@@ -195,7 +195,7 @@ Using AutoCAD for electrical wiring installation and cost estimation involves se
 
 Remember to consult local building codes, regulations, and standards when designing electrical installations. Additionally, involve qualified electricians or electrical engineers to review your designs and ensure compliance with safety requirements. While AutoCAD can streamline the design process, accurate cost estimation often requires additional tools or manual calculations based on the design specifications.
 
-### 06. [Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D](https://github.com/rrohit006/Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D)
+### _**06.**_ [**_Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D_**](https://github.com/rrohit006/Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D)
 
 To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow these general steps:
 
