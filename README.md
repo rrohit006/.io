@@ -101,7 +101,8 @@ Creating a periodic table using C programming involves using data structures to 
 5. **Compile and Run:**
    - Compile the program using a C compiler (e.g., `gcc`) and run the executable.
    - You should see a formatted periodic table printed to the console.
-![OutPut View](/img/02.png) 
+   
+     ![OutPut View](/img/02.png) 
 
 ### 02. [Design of a Common Emitter BJT Amplifier](https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main)
 
@@ -133,7 +134,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
-![OutPut View](/img/04.png)
+    ![OutPut View](/img/04.png)
 
 1. **Installation**: First, ensure that you have SCAPS-1D installed on your system. You can typically download it from the official website or from a trusted source.
 
@@ -156,28 +157,28 @@ It's important to note that simulating thin-film solar cells using SCAPS-1D requ
 ### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
-
-![OutPut View](/img/0_1.png)
+   
+     ![OutPut View](/img/0_1.png)
 
 1. **Drawing the Electrical Layout**:
     - Start by creating a new drawing file in AutoCAD.
     - Draw the floor plan or layout where the electrical wiring will be installed. This includes walls, doors, windows, and other relevant features.
     - Use AutoCAD's electrical symbols and tools to draw components such as outlets, switches, lights, circuit breakers, and wiring routes. You can find these symbols in AutoCAD's libraries or download additional symbol libraries if needed.
     - Ensure that your drawing is accurately scaled to represent the actual dimensions of the space.
-  
-    ![OutPut View](/img/07.png)
+   
+      ![OutPut View](/img/07.png)
 
 2. **Creating Wiring Diagrams**:
     - Draw wiring diagrams to illustrate how electrical components are connected and the routing of wires. This helps electricians understand the installation process.
     - Label components and wires appropriately to avoid confusion during installation.
-
-![OutPut View](/img/08.png)
+      
+      ![OutPut View](/img/08.png)
 
 3. **Material List Generation**:
     - Manually create a list of materials needed for the electrical installation based on your drawing. This includes wires, cables, outlets, switches, circuit breakers, conduit, junction boxes, etc.
     - Assign quantities and specifications to each item in the list.
 
-![OutPut View](/img/09.png)
+      ![OutPut View](/img/09.png)
 
 4. **Cost Estimation**:
     - Research the prices of electrical materials and components from suppliers or hardware stores.
@@ -204,8 +205,8 @@ To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow the
    - Start by creating the geometry of the coaxial capacitor. You can use the built-in modeling tools to draw the capacitor's structure.
    - Define the dimensions, including the inner and outer radii of the coaxial cylinders and the length of the capacitor.
    - Ensure that the geometry accurately represents the physical structure of the capacitor.
-  
-![OutPut View](/img/05.png)
+   
+     ![OutPut View](/img/05.png)
 
 3. **Assign Material Properties**:
    - Define the material properties for the conductive and dielectric materials used in the capacitor.
@@ -235,8 +236,8 @@ To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow the
 9. **Analysis and Optimization**:
    - Analyze the simulation results to understand the behavior of the coaxial capacitor under different conditions.
    - Use the insights gained from the simulation to optimize the design of the capacitor for improved performance.
-  
-![OutPut View](/img/06.png)
+   
+     ![OutPut View](/img/06.png)
 
 10. **Validation**:
     - Validate the simulation results by comparing them with experimental data or analytical solutions, if available.
