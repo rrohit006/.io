@@ -135,7 +135,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
-    ![OutPut View](/img/04.png)
+  ![OutPut View](/img/04.png)
 
 1. **Installation**: First, ensure that you have SCAPS-1D installed on your system. You can typically download it from the official website or from a trusted source.
 
@@ -158,13 +158,14 @@ It's important to note that simulating thin-film solar cells using SCAPS-1D requ
 ### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
-   
-    ![OutPut View](/img/0_1.png)
-    
+  
+  ![OutPut View](/img/0_1.png)
+     
 1. **Drawing the Electrical Layout**:
     - Start by creating a new drawing file in AutoCAD.
     - Draw the floor plan or layout where the electrical wiring will be installed. This includes walls, doors, windows, and other relevant features.
-    - Use AutoCAD's electrical symbols and tools to draw components such as outlets, switches, lights, circuit breakers, and wiring routes. You can find these symbols in AutoCAD's libraries or download additional symbol libraries if needed.
+    - Use AutoCAD's electrical symbols and tools to draw components such as outlets, switches, lights, circuit breakers, and wiring routes. You can find these symbols in AutoCAD's 
+      libraries or download additional symbol libraries if needed.
     - Ensure that your drawing is accurately scaled to represent the actual dimensions of the space.
    
       ![OutPut View](/img/07.png)
