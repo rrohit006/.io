@@ -133,7 +133,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
    - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
 
 ### 03. Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program
-[(View Project)]([https://github.com/rrohit006/Design-of-a-Common-Emitter-BJT-Amplifier/tree/main](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
+[(View Project)](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
 
