@@ -201,6 +201,8 @@ To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow the
 9. **Analysis and Optimization**:
    - Analyze the simulation results to understand the behavior of the coaxial capacitor under different conditions.
    - Use the insights gained from the simulation to optimize the design of the capacitor for improved performance.
+  
+![OutPut View](/img/06.png)
 
 10. **Validation**:
     - Validate the simulation results by comparing them with experimental data or analytical solutions, if available.
