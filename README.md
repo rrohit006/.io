@@ -112,7 +112,8 @@ The design of a common emitter Bipolar Junction Transistor (BJT) amplifier invol
 
 Numerical techniques in engineering involve using mathematical methods and algorithms to solve engineering problems that may not have analytical solutions or where analytical solutions are difficult to obtain. Here are some common numerical techniques used in engineering along with a brief overview of each:
 1. **Root-Finding Methods:**
-   - **Bisection Method:** Iteratively narrow down the interval containing a root by evaluating the function at the endpoints and identifying the subinterval where the function changes sign.
+   - **Bisection Method:** Iteratively narrow down the interval containing a root by evaluating the function at the endpoints and identifying the subinterval where the function changes 
+     sign.
    - **Newton-Raphson Method:** Use the tangent line to iteratively approach the root of a function.
 2. **Linear Algebraic Equations:**
    - **Gaussian Elimination:** A method for solving systems of linear equations through row operations to transform a system into an upper triangular form.
@@ -158,7 +159,7 @@ It's important to note that simulating thin-film solar cells using SCAPS-1D requ
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
    
-     ![OutPut View](/img/0_1.png)
+    ![OutPut View](/img/0_1.png)
 
 1. **Drawing the Electrical Layout**:
     - Start by creating a new drawing file in AutoCAD.
