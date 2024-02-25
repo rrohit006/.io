@@ -7,7 +7,7 @@
 
 - _**ADDRESS**_ **:** 44/8, Tir Bhaban, North Chashara, Narayanganj-1400
 
-[_**Facebook**_](https://www.facebook.com/rohit.bhowmick.006/) | [_**Github**_](https://github.com/rrohit006) | [**LinkedIn**](https://www.linkedin.com/in/rohit-bhowmick-9683332a8/)  
+[_**Facebook**_](https://www.facebook.com/rohit.bhowmick.006/) | [_**Github**_](https://github.com/rrohit006) | [_**LinkedIn**_](https://www.linkedin.com/in/rohit-bhowmick-9683332a8/)  
 
 
 # _**SKILLS**_
