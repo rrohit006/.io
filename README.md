@@ -169,7 +169,7 @@ Using AutoCAD for electrical wiring installation and cost estimation involves se
     - Draw wiring diagrams to illustrate how electrical components are connected and the routing of wires. This helps electricians understand the installation process.
     - Label components and wires appropriately to avoid confusion during installation.
 
-![OutPut View](/img/0_1.png) ![OutPut View](/img/0_1.png) ![OutPut View](/img/0_1.png)
+![OutPut View](/img/0_1.png)![OutPut View](/img/0_1.png)![OutPut View](/img/08.png)
 
 3. **Material List Generation**:
     - Manually create a list of materials needed for the electrical installation based on your drawing. This includes wires, cables, outlets, switches, circuit breakers, conduit, junction boxes, etc.
