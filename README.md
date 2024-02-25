@@ -164,18 +164,20 @@ Using AutoCAD for electrical wiring installation and cost estimation involves se
     - Draw the floor plan or layout where the electrical wiring will be installed. This includes walls, doors, windows, and other relevant features.
     - Use AutoCAD's electrical symbols and tools to draw components such as outlets, switches, lights, circuit breakers, and wiring routes. You can find these symbols in AutoCAD's libraries or download additional symbol libraries if needed.
     - Ensure that your drawing is accurately scaled to represent the actual dimensions of the space.
+  
+    ![OutPut View](/img/07.png)
 
 2. **Creating Wiring Diagrams**:
     - Draw wiring diagrams to illustrate how electrical components are connected and the routing of wires. This helps electricians understand the installation process.
     - Label components and wires appropriately to avoid confusion during installation.
 
-![OutPut View](/img/07.png)
+![OutPut View](/img/08.png)
 
 3. **Material List Generation**:
     - Manually create a list of materials needed for the electrical installation based on your drawing. This includes wires, cables, outlets, switches, circuit breakers, conduit, junction boxes, etc.
     - Assign quantities and specifications to each item in the list.
-    - 
-![OutPut View](/img/08.png)
+
+![OutPut View](/img/09.png)
 
 4. **Cost Estimation**:
     - Research the prices of electrical materials and components from suppliers or hardware stores.
@@ -186,8 +188,7 @@ Using AutoCAD for electrical wiring installation and cost estimation involves se
     - Export the material list from AutoCAD to a spreadsheet format (e.g., CSV, Excel).
     - Use specialized cost estimation software or plugins that can import the material list and perform cost calculations automatically.
     - Some construction estimating software packages offer integration with AutoCAD and provide tools for generating cost estimates directly from CAD drawings.
-  
-  ![OutPut View](/img/09.png)
+
 
 Remember to consult local building codes, regulations, and standards when designing electrical installations. Additionally, involve qualified electricians or electrical engineers to review your designs and ensure compliance with safety requirements. While AutoCAD can streamline the design process, accurate cost estimation often requires additional tools or manual calculations based on the design specifications.
 
