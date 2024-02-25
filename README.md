@@ -153,6 +153,38 @@ To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) usi
 
 It's important to note that simulating thin-film solar cells using SCAPS-1D requires a good understanding of semiconductor physics and device modeling. Additionally, accurate input parameters and material properties are essential for obtaining reliable simulation results. If you're new to using SCAPS-1D or simulating solar cells in general, it may be helpful to consult the software documentation and/or seek guidance from experts in the field.
 
+### 05. [Electrical-Wiring-Installation-Cost-Estimation (Considering Safety Issues](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
+
+Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
+
+![OutPut View](/img/0_1.png)
+
+1. **Drawing the Electrical Layout**:
+    - Start by creating a new drawing file in AutoCAD.
+    - Draw the floor plan or layout where the electrical wiring will be installed. This includes walls, doors, windows, and other relevant features.
+    - Use AutoCAD's electrical symbols and tools to draw components such as outlets, switches, lights, circuit breakers, and wiring routes. You can find these symbols in AutoCAD's libraries or download additional symbol libraries if needed.
+    - Ensure that your drawing is accurately scaled to represent the actual dimensions of the space.
+
+2. **Creating Wiring Diagrams**:
+    - Draw wiring diagrams to illustrate how electrical components are connected and the routing of wires. This helps electricians understand the installation process.
+    - Label components and wires appropriately to avoid confusion during installation.
+
+3. **Material List Generation**:
+    - Manually create a list of materials needed for the electrical installation based on your drawing. This includes wires, cables, outlets, switches, circuit breakers, conduit, junction boxes, etc.
+    - Assign quantities and specifications to each item in the list.
+
+4. **Cost Estimation**:
+    - Research the prices of electrical materials and components from suppliers or hardware stores.
+    - Calculate the total cost of materials by multiplying the quantity of each item by its unit price.
+    - Consider additional costs such as labor, permits, overhead, and contingencies.
+
+5. **Integration with Cost Estimation Software** (Optional):
+    - Export the material list from AutoCAD to a spreadsheet format (e.g., CSV, Excel).
+    - Use specialized cost estimation software or plugins that can import the material list and perform cost calculations automatically.
+    - Some construction estimating software packages offer integration with AutoCAD and provide tools for generating cost estimates directly from CAD drawings.
+
+Remember to consult local building codes, regulations, and standards when designing electrical installations. Additionally, involve qualified electricians or electrical engineers to review your designs and ensure compliance with safety requirements. While AutoCAD can streamline the design process, accurate cost estimation often requires additional tools or manual calculations based on the design specifications.
+
 ### 06. [Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D](https://github.com/rrohit006/Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D)
 
 To simulate a coaxial capacitor using ANSYS Electronics (Maxwell 3D), follow these general steps:
