@@ -132,7 +132,7 @@ Numerical techniques in engineering involve using mathematical methods and algor
    - **Finite Difference Method:** Discretize PDEs using finite differences to approximate derivatives and convert the problem into a system of algebraic equations.
    - **Finite Element Method:** Divide the domain into small elements and approximate the solution over each element using piecewise functions.
 
-### 03. Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program
+### 04. Simulation of Thin-Film Solar Cells based on (CCZTSe) Using (SCAPS-1D) Program
 [(View Project)](https://github.com/rrohit006/Simulation-of-Thin-Film-Solar-Cells-based-on-CCZTSe-Using-SCAPS-1D-Program)
 
 To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) using the SCAPS-1D program, you'll need to follow specific steps. SCAPS-1D (Solar Cell Capacitance Simulator in 1 Dimension) is a widely-used simulation tool for studying the performance of various types of solar cells. Here's a general guide on how to set up and perform a simulation:
@@ -157,7 +157,7 @@ To simulate thin-film solar cells based on CCZTSe (copper zinc tin selenide) usi
 
 It's important to note that simulating thin-film solar cells using SCAPS-1D requires a good understanding of semiconductor physics and device modeling. Additionally, accurate input parameters and material properties are essential for obtaining reliable simulation results. If you're new to using SCAPS-1D or simulating solar cells in general, it may be helpful to consult the software documentation and/or seek guidance from experts in the field.
 
-### 04. Electrical Wiring Installation & Cost Estimation (Considering Safety Issues)
+### 05. Electrical Wiring Installation & Cost Estimation (Considering Safety Issues)
 [(View Project)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
