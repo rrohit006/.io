@@ -18,7 +18,7 @@
 
 
 # _**LANGUAGE**_
-- *Bangla* | - *English*
+ *Bangla* | *English*
 
   
 # _**TOOLS**_
