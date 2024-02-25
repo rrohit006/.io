@@ -159,8 +159,7 @@ It's important to note that simulating thin-film solar cells using SCAPS-1D requ
 [(View Project)](https://github.com/rrohit006/Electrical-Wiring-Installation-Cost-Estimation)
 
 Using AutoCAD for electrical wiring installation and cost estimation involves several steps. AutoCAD is primarily a drafting software, so it's useful for creating detailed drawings of electrical layouts. However, for cost estimation, you might need to integrate it with other software or manually calculate the costs based on the design. Here's a general guide on how to approach electrical wiring installation and cost estimation using AutoCAD:
-![OutPut View](0_1.pngElectrical-Wiring-Installation-Cost-Estimation/0_1.png) 
-
+![OutPut View](/img/0_1.png) 
 1. **Drawing the Electrical Layout**:
     - Start by creating a new drawing file in AutoCAD.
     - Draw the floor plan or layout where the electrical wiring will be installed. This includes walls, doors, windows, and other relevant features.
