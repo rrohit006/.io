@@ -41,14 +41,15 @@
 - *Code::Blocks*
 - *CISCO Pocket Tracer*
 - *Logo Soft Comfort v8.3*
-- *Totally Integrated Automation Portal V10* 
+- *Totally Integrated Automation Portal V10*
+- *Fritzing*
 
 # _**EDUCATION**_
 ## **B.Sc. in Electrical & Electronics Engineering** 
 
 **_East West University, Dhaka_**  
 
-2020 - Present  
+2020 - 2024
 
 ## **Higher Secondary School Certificate (HSC)** 
 
@@ -83,6 +84,7 @@ _**Narayanganj High School & College, Narayanganj**_
 - [Basic English 2: Pre-Intermediate](https://www.futurelearn.com/certificates/hjcrnvd)
 - [RMW101: Foundations of Real World Math](https://learn.saylor.org/admin/tool/certificate/index.php?code=2888428184RB)
 - [RWM102: Algebra](https://learn.saylor.org/admin/tool/certificate/index.php?code=0174361609RB)
+- [CS402: Computer Communications and Networks](https://learn.saylor.org/admin/tool/certificate/index.php?code=4374666352RB)
 
 # **_PROJECTS_**
 ### _**01.**_ _**Periodic Table using C Programming**_
